@@ -1,0 +1,31 @@
+def add(a,b):
+    return a + b
+def minus(a,b):
+    return a - b
+def nasobenie(a,b):
+    return a * b
+def delenie(a,b):
+    return a / b
+
+print("Select operation.")
+print("1.Add")
+print("2.Subtract")
+print("3.Multiply")
+print("4.Divide")
+
+while True:
+    vyber = input("Enter 1,2,3,4: ")
+
+    if vyber in ('1', '2', '3', '4'):
+        num1 = float(input("Enter first number: "))
+        num2 = float(input("Enter second number: "))
+
+        if vyber == '1':
+            print(num1, "+", num2, "=", add(num1, num2))
+        elif vyber == '2':
+            print(num1, "+", num2, "=", minus(num1, num2))
+        elif vyber == '3':
+            print(num1, "*", num2, "=", nasobenie(num1, num2))
+        elif vyber == '4':
+            print(num1, "/", num2, "=", delenie(num1, num2))
+        break
