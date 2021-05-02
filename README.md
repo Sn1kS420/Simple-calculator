@@ -49,9 +49,7 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Simple Calculator\
 
 ## :rocket: Technologies ##
 
@@ -72,11 +70,8 @@ $ git clone https://github.com/Sn1kS420/Simple-calculator
 # Access
 $ cd calculator
 
-# Install dependencies
-$ yarn
-
 # Run the project
-$ yarn start
+$ python -u calculator.python
 
 # The server will initialize in the <http://localhost:3000>
 ```
