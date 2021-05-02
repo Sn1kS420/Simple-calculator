@@ -56,7 +56,7 @@ $ python -u calculator.python
 
 ## :memo: License ##
 
-Made with :heart: by <a href="https://github.com/Sn1kS420/Simple-calculator" target="_blank">Oliver Brunovsky</a>
+Made with :heart: by <a href="https://github.com/Sn1kS420" target="_blank">Oliver Brunovsky</a>
 
 &#xa0;
 
