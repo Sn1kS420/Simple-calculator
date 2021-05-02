@@ -62,7 +62,7 @@ $ python -u calculator.python
 
 ## :memo: License ##
 
-Made with :heart: by <a href="https://github.com/Sn1kS420" target="_blank">Oliver Brunovsky</a>
+Made by <a href="https://github.com/Sn1kS420" target="_blank">Sniks</a>
 
 &#xa0;
 
