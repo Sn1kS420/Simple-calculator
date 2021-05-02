@@ -1,24 +1,5 @@
-<div align="center" id="top"> 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  <img src="./.github/app.gif" alt="Calculator" />
->>>>>>> 8ac1f9c640c29cf9a62a2703ce8ec1dd725ffbba
-=======
->>>>>>> bf372444e9f1f9624dcc1bbc3350a73d4baea819
-
-  &#xa0;
-
-  <!-- <a href="https://calculator.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Calculator</h1>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Calculator 🚀 Under construction...  🚧
-</h4> 
 
 <hr> -->
 
