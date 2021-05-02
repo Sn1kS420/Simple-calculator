@@ -1,3 +1,6 @@
+import os
+import time
+
 def add(a,b):
     return a + b
 def minus(a,b):
@@ -21,11 +24,20 @@ while True:
         num2 = float(input("Enter second number: "))
 
         if vyber == '1':
+            os.system("cls")
+            time.sleep(1)
             print(num1, "+", num2, "=", add(num1, num2))
         elif vyber == '2':
+            os.system("cls")
+            time.sleep(1)
             print(num1, "+", num2, "=", minus(num1, num2))
         elif vyber == '3':
+            os.system("cls")
+            time.sleep(1)
             print(num1, "*", num2, "=", nasobenie(num1, num2))
         elif vyber == '4':
+            os.system("cls")
+            time.sleep(1)
             print(num1, "/", num2, "=", delenie(num1, num2))
         break
+
