@@ -1,4 +1,8 @@
 <div align="center" id="top"> 
+<<<<<<< HEAD
+=======
+  <img src="./.github/app.gif" alt="Calculator" />
+>>>>>>> 8ac1f9c640c29cf9a62a2703ce8ec1dd725ffbba
 
   &#xa0;
 
