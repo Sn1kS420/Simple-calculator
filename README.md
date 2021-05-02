@@ -18,7 +18,7 @@
 
 The following tools were used in this project:
 
-- [Node.js](https://nodejs.org/en/)
+- [Python](https://www.python.org/)
 
 ## :white_check_mark: Requirements ##
 
