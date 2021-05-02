@@ -30,7 +30,7 @@ while True:
         elif vyber == '2':
             os.system("cls")
             time.sleep(1)
-            print(num1, "+", num2, "=", minus(num1, num2))
+            print(num1, "-", num2, "=", minus(num1, num2))
         elif vyber == '3':
             os.system("cls")
             time.sleep(1)
