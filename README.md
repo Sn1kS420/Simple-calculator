@@ -45,7 +45,7 @@
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Simple Calculator\
+:heavy_check_mark: Simple Calculator
 
 ## :rocket: Technologies ##
 
