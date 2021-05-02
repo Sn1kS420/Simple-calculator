@@ -78,9 +78,6 @@ $ python -u calculator.python
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
 Made with :heart: by <a href="https://github.com/Simple-calculator" target="_blank">Oliver Brunovsky</a>
 
 &#xa0;
