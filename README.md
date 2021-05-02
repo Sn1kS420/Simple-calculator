@@ -58,6 +58,7 @@ $ cd calculator
 # Run the project
 $ python -u calculator.python
 
+```
 
 ## :memo: License ##
 
