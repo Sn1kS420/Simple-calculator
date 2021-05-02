@@ -9,7 +9,7 @@ def nasobenie(a,b):
     return a * b
 def delenie(a,b):
     return a / b
-
+os.system("cls")
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
