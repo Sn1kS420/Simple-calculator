@@ -1,5 +1,4 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Calculator" />
 
   &#xa0;
 
@@ -9,19 +8,19 @@
 <h1 align="center">Calculator</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/calculator?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Simple-calculator/calculator?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/calculator?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Simple-calculator/calculator?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/calculator?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Simple-calculator/calculator?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/calculator?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Simple-calculator/calculator?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/calculator?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Simple-calculator/calculator?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/calculator?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Simple-calculator/calculator?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/calculator?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Simple-calculator/calculator?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -72,7 +71,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/calculator
+$ git clone https://github.com/Sn1kS420/Simple-calculator
 
 # Access
 $ cd calculator
@@ -91,7 +90,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/Simple-calculator" target="_blank">Oliver Brunovsky</a>
 
 &#xa0;
 
